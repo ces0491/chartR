@@ -1,0 +1,2 @@
+# chartR
+Chart formatting templates
